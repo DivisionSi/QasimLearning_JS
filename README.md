@@ -1,3 +1,4 @@
-# QasimLearning_JS
-Files and material relevant to the JS course
-Hi
+Add in bullets whatever you learn.
+For example:
+1. Variables
+2. Functions

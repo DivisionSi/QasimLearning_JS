@@ -1,4 +1,1 @@
-Add in bullets whatever you learn.
-For example:
-1. Variables
-2. Functions
+Learned how to put comments on a code and why should we use it

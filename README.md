@@ -16,8 +16,3 @@ Divide One Decimal by Another with JavaScript
 Finding a Remainder in JavaScript
 Compound Assignment With Augmented Addition
 Compound Assignment With Augmented Subtraction
-Compound Assignment With Augmented Multiplication
-Compound Assignment With Augmented Division
-Declare String Variables
-Escaping Literal Quotes in Strings
-Quoting Strings with Single Quotes
